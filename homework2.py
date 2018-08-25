@@ -1,0 +1,5 @@
+print(f'5 AND 6: {5 & 6}')
+print(f'5 OR 6: {5 | 6}')
+print(f'5 XOR 6: {5 ^ 6}')
+print(f'shift two bits left of 5: {5 << 2}')
+print(f'shift two bits right of 5: {5 >> 2}')
